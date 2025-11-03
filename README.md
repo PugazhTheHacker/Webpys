@@ -1,4 +1,4 @@
-  #WebPyS v2.1 - Web Passive Scanner & Recon Tool
+   #WebPyS v2.1 - Web Passive Scanner & Recon Tool
 
 **Author**: [Pugazh@TheHacker](https://github.com/PugazhTheHacker)
       
