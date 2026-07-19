@@ -3,7 +3,7 @@
 
 """
 WebPyS v2.1 - Web Reconnaissance & Passive Scanner
-Author: Pugazh@TheHacker
+Author: Pugazhenthi
 License: MIT
 """
 
@@ -37,7 +37,7 @@ def print_banner():
                   "    \\_/\\_/ \\___|_.__/|_|    \\__,_|_.__/ \n"
                   "\n[/bold orange3]"
                   "[bold cyan]      WebPyS v2.1 - Website Scanner[/bold cyan]\n"
-                  "[bold white]         Author: Pugazh@TheHacker[/bold white]\n\n"
+                  "[bold white]         Author: Pugazhexploit[/bold white]\n\n"
                   "[bright_blue]  =====================================[/bright_blue]\n"
                   "[bold orange1]    Passive Recon | SSL | Headers[/bold orange1]\n"
                   "[bright_blue]  =====================================[/bright_blue]\n"
