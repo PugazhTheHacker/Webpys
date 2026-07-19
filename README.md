@@ -42,7 +42,7 @@ pip install -r requirements.txt
  ```
   ```
 
-  cd webpys
+  
   python webpys.py
   ```
 
