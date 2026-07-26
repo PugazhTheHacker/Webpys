@@ -1,4 +1,4 @@
-   #WebPyS v2.1 - Web Passive Scanner & Recon Tool
+#WebPyx v3.0.1 - Web Passive Scanner & Recon Tool
 
 **Author**: [Pugazhenthi] (https://github.com/pugazhexploit/Webpys.git)
       
