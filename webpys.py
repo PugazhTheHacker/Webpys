@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-WebPyS v2.1 - Web Reconnaissance & Passive Scanner
+WebPyS v3.o.1 - Web Reconnaissance & Passive Scanner
 Author: Pugazhenthi
 License: MIT
 """
