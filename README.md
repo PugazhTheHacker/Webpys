@@ -1,6 +1,6 @@
    #WebPyS v2.1 - Web Passive Scanner & Recon Tool
 
-**Author**: [Pugazh@TheHacker](https://github.com/PugazhTheHacker)
+**Author**: [Pugazhenthi] (https://github.com/pugazhexploit/Webpys.git)
       
 WebPyS is a powerful, modular web reconnaissance tool that performs **passive and semi-active enumeration** of web targets. It helps security researchers, bug bounty   hunters, and penetration testers gather vital intelligence on websites without triggering excessive alerts.
 
