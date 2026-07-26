@@ -3,12 +3,12 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "webpyx"
-version = "3.0.1"
-description = "Python utility library for target validation and port parsing"
+name = "webpyslib"
+version = "1.0.0"
+description = "Python utility library for cybersecurity"
 readme = "README.md"
 requires-python = ">=3.10"
-license = "MIT"
+license = { text = "MIT" }
 
 authors = [
     { name = "Pugazhenthi J", email = "pugazhenthij283@gmail.com" }
@@ -17,15 +17,14 @@ authors = [
 keywords = [
     "python",
     "cybersecurity",
-    "validator",
     "network",
+    "validator",
     "recon"
 ]
 
 classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
 

@@ -1,6 +1,6 @@
 #WebPyx v3.0.1 - Web Passive Scanner & Recon Tool
 
-**Author**: pugazhenthi J
+**Author**: [Pugazhenthi] (https://github.com/pugazhexploit/Webpys.git)
       
 ````markdown
 # WebPyX Scan v3.0.1 (CyberScan)
