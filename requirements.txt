@@ -1,0 +1,6 @@
+requests
+aiohttp
+dnspython
+python-nmap
+tqdm
+colorama
