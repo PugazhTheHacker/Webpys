@@ -488,7 +488,8 @@ print(result.normalized_target)
 
 # Running Tests
 
-```bash
+```
+bash
 cd my_library_project
 
 set PYTHONPATH=src
@@ -552,29 +553,39 @@ If you find this project useful, consider giving it a ⭐ on GitHub and contribu
 
 Happy Recon! 🚀
 ````
-
+```
    cd ./webpys
-   ```
+```
 
 # create & activate venv (Linux / macOS)
- ```
+
+
+```
 python3 -m venv venv
+```
+
+
+```
 source venv/bin/activate
- ```
+```
 # or on Windows (PowerShell)
- ```
+```
 python -m venv venv
+```
+```
 .\venv\Scripts\Activate.ps1
- ```
-# install dependencies
+``` 
+#stall dependencies
+
  ```
 pip install --upgrade pip
+```
 
+```
 pip install -r requirements.txt
- ```
-  ```
+```
 
-  
+```  
   python webpys.py
   ```
 
