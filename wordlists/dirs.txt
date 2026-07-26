@@ -1,0 +1,7 @@
+
+admin
+login
+dashboard
+robots.txt
+.env
+uploads
