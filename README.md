@@ -7,7 +7,6 @@ markdown
 
 > A Python-based Reconnaissance and Security Scanning Toolkit for authorized security testing, learning, and research.
 
----
 
 ## Overview
 
