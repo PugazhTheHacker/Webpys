@@ -17,7 +17,6 @@ The project is designed with a modular architecture, allowing new scanning modul
 
 > **Note:** This project is intended only for authorized penetration testing, security assessments, education, and research.
 
----
 
 # Features
 
