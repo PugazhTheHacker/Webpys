@@ -1,8 +1,7 @@
-#WebPyx v3.0.1 - Web Passive Scanner & Recon Tool
 
-**Author**: pugazhenthi J
       
 # WebPyX Scan v3.0.1 (CyberScan)
+**Author**: pugazhenthi J
 
 > A Python-based Reconnaissance and Security Scanning Toolkit for authorized security testing, learning, and research.
 
