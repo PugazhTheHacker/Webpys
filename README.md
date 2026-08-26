@@ -9,7 +9,7 @@
 ## Overview
 
 **WebPyX Scan v3.0.1** is a modular reconnaissance framework written in Python. It combines common reconnaissance techniques into a single command-line application capable of discovering subdomains, scanning TCP ports, performing directory enumeration, and generating detailed reports in JSON and HTML formats.
-
+    
  The project is designed with a modular architecture, allowing new scanning modules to be added with minimal changes.
 
 > **Note:** This project is intended only for authorized penetration testing, security assessments, education, and research.
